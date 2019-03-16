@@ -7,14 +7,14 @@ Welcome to the work in progress wiki to share information about technology in Eu
 ## Visas and work permits
 
 ### the Netherlands
-[Orientation Visa](#)
-[Startup Visa](#)
-[Employment Visa](#)
+* [Orientation Visa](#)
+* [Startup Visa](#)
+* [Employment Visa](#)
 
 ### Switzerland
-[Employment Visa](#)
-[Startup Visa](#)
-[Visa for Canada, America, New Zealand, Australia, South Africa](#)
+* [Employment Visa](#)
+* [Startup Visa](#)
+* [Visa for Canada, America, New Zealand, Australia, South Africa](#)
 
 ## Entrepreneurship
 
